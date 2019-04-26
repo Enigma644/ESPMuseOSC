@@ -9,6 +9,7 @@ This code sample is to demonstrate streaming live OSC brainwave data from Muse M
   * [Arduino OSC library](https://github.com/CNMAT/OSC)
   * [ESP8266 NodeMCU 1.0 (ESP-12E Module)](https://www.banggood.com/NodeMcu-Lua-WIFI-Internet-Things-Development-Board-Based-ESP8266-CP2102-Wireless-Module-p-1097112.html)
   * [SSD1331 Color OLED (96x64)](https://www.banggood.com/0_95-Inch-7pin-Full-Color-65K-Color-SSD1331-SPI-OLED-Display-For-Arduino-p-1068167.html)
+  * [SSD_13XX OLED Library by Sumotoy](https://github.com/sumotoy/SSD_13XX/)
   
 ###  SSD1331 OLED Wiring:
 | **ESP**  | GND | 3V3 | D5  | D7  | D4  | D1 | D2 |
